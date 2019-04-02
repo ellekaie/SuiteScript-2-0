@@ -20,5 +20,5 @@ function (crypto, encode)
         outputEncoding: encode.Encoding.HEX
     });
     
-	log.debug(digestSHA512);
+	log.debug(digestSHA512); 
 });
